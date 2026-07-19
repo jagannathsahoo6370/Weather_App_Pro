@@ -32,11 +32,13 @@ A modern weather application built using **Python** and **PyQt6** that provides 
 
 ### Before Theme
 
-![Before Theme](<img width="1064" height="1479" alt="Before Theme" src="https://github.com/user-attachments/assets/71aca19e-da97-42df-b118-0167eb46ac69" />)
+<img width="1064" height="1479" alt="Before Theme" src="https://github.com/user-attachments/assets/10f6b451-faf6-46f4-ac28-01f9fea09106" />
+
 
 ### After Theme
 
-![After Theme](<img width="1032" height="1523" alt="After Theme" src="https://github.com/user-attachments/assets/b8f00ffd-f519-4d70-94a7-34b6a53428b5" />)
+<img width="1032" height="1523" alt="After Theme" src="https://github.com/user-attachments/assets/daab0684-d1a6-49b0-bc1e-9f9c79126bd8" />
+
 
 ---
 

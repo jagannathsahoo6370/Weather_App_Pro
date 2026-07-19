@@ -65,7 +65,7 @@ python weather_app.py
 Got my free API key from OpenWeatherMap.
 
 
-API_KEY = "81e0967d31a0bc39b93b58881370dc4f"
+API_KEY = "Your_API_KEY"
 
 
 ---
